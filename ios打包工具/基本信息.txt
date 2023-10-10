@@ -1,0 +1,71 @@
+1.hbuildex账号、微信开放平台
+   it@jizhi.group
+   Mingcloud@2021
+
+2.微信公众号
+QQ账号：2948805512@qq.com （注册手机号：15355796938）
+账号密码：jizhi@2022
+AppID:wx41888c928ebfd1e5
+AppSecrent:41e881db83e1588a314051a95d127c93
+
+3.APIoT V10安卓证书信息
+   别名：itApp
+   证书名称：itApp.keystore
+   密码：Mingcloud@2021
+   有效时间：36500天
+   MD5:  DE:00:A0:31:FE:9C:64:6D:15:9D:2F:62:87:D2:9D:F3
+   SHA1: E0:3A:4E:A7:7B:3F:05:5A:B2:25:F4:D7:0C:35:DD:08:1F:56:FF:C4
+   SHA256: 39:E9:A7:FC:38:EB:37:BB:5B:DB:C5:3E:11:F0:2A:E2:6C:F8:9C:F6:0A:C8:CD:70:C4:04:FF:2B:64:32:46:7B
+
+4.蒲公英账号
+   it@mingcloud.com
+   Mingcloud@ABCabc123
+
+5.公司app打包相关文件地址
+   https://svn.mingcloud.top:3399/svn/eam/APIoT%E6%A0%87%E5%87%86%E4%BA%A7%E5%93%81/%E6%A0%87%E5%87%86%E7%89%88APP%E6%89%93%E5%8C%85%E7%9B%B8%E5%85%B3%E6%96%87%E4%BB%B6
+
+6.公司账号相关信息（所有预留手机皆为测试机：15355796938）
+   测试机：苹果 iphone11
+   手机号：15355796938
+   锁屏密码：123456
+===================QQ账号==================
+   名称：机至数科
+   账号：2878381990
+   密码：jizhi@2021
+   QQ邮箱：2878381990@qq.com（用于申请了Apple开发者账号）
+===================Apple账号1（v9）=================
+   Apple ID：2878381990@qq.com
+   密码：Jizhi@2022
+   名称：机至数科
+   邮箱：2878381990@qq.com（该手机对应的QQ号）
+   app上传专用密码：fsma-ptqm-uzdm-ohfs（用于app上传到appstore商城时用，如果采用AppUploader工具上传时会有提醒）
+===================Apple账号2（v8）=================
+   Apple ID：zpf@apipro.cn
+   密码：Mingcloud@2022->JizhiV8@2022
+   名称：mingcloud
+   通知邮箱：80816558@qq.com（张鹏飞对应的qq，由于可能会收到续费邮件）
+   app上传专用密码：bxgl-dvdv-dhrf-xhhg
+===================APIoT V10（Apple ID：2878381990@qq.com）==================
+   苹果是一个证书对应多个应用，但应用标识和描述文件是对应一个应用；只有安卓才需要一个证书一个应用
+   bundle ID:com.jizhi.apiot10（与v9的p12证书相同，描述文件不一致）
+   密码：123456
+   p12到期日期：2023-03-25
+===================APIoT V9 （Apple ID：2878381990@qq.com）==================
+   bundle ID:com.mingcloud.eam
+   密码：123456
+   p12到期日期：2023-03-25
+===================APIoT V8（Apple ID：zpf@apipro.cn）==================
+   bundle ID:com.jizhi.eam8
+   密码：jizhi_eam8
+   p12到期日期：2023-04-01
+===================Appuploader 激活码==================
+   购买时间：2022-06-21
+   激活码1：01738fb5-11e0-4837-8a53-bd8d356ac571（用于Apple账号1（v9）2878381990@qq.com）
+   激活码2：a944fd6e-e0ab-42c8-97d5-9734695da545（用于Apple账号2（v8）zpf@apipro.cn）
+
+
+
+
+
+   
+   
